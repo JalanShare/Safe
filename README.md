@@ -1,0 +1,2 @@
+# Safe
+Aman link encrypt
